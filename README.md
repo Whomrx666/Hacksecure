@@ -2,12 +2,12 @@
 ![hacksecure preview](hacksecure.jpg)
 
 <p align="center">
-  <strong>Cyberpunk Neon Edition – OSINT • Security • Stresser • Digital Forensics • Password Security</strong><br>
-  <em>"Unlock the Truth — Intelligence meets Neon." – Mr.X</em>
+  <strong>Cyberpunk Neon Edition â€“ OSINT â€¢ Security â€¢ Stresser â€¢ Digital Forensics â€¢ Password Security</strong><br>
+  <em>"Unlock the Truth â€” Intelligence meets Neon." â€“ Mr.X</em>
 </p>
 
 ## Introduction
-Hacksecure is an all-in-one terminal-based toolkit that combines **OSINT**, **ethical hacking**, **stress testing**, **digital forensics**, and **password security** modules into a single powerful cyberpunk-themed CLI. With **10 OSINT modules**, **40 ethical hacking modules**, **6 stresser modules (L4/L7)**, **10 forensic image modules**, and **6 password security modules**, Hacksecure streamlines your reconnaissance, vulnerability assessment, and investigation workflows. Runs smoothly on **Termux (Android)**, Linux, Windows, macOS, and Kali Linux — **no root required** and **no API key needed** for OSINT and Forensic modules.
+Hacksecure is an all-in-one terminal-based toolkit that combines **OSINT**, **ethical hacking**, **stress testing**, **digital forensics**, and **password security** modules into a single powerful cyberpunk-themed CLI. With **10 OSINT modules**, **40 ethical hacking modules**, **6 stresser modules (L4/L7)**, **10 forensic image modules**, and **6 password security modules**, Hacksecure streamlines your reconnaissance, vulnerability assessment, and investigation workflows. Runs smoothly on **Termux (Android)**, Linux, Windows, macOS, and Kali Linux â€” **no root required** and **no API key needed** for OSINT and Forensic modules.
 
 ## Installation
 ```bash
@@ -26,14 +26,14 @@ $ python3 hacksecure.py
 > **Note:** OSINT and Forensic Image modules work 100% offline-capable without any API key. Some optional features may require additional tools (`whois`, `exiftool`, `tesseract`, `scapy`).
 
 ## Features
-- **OSINT Suite** – 10 modules covering username, phone, email, social media, IP, domain, GitHub, Gravatar, IP reputation, and website tech detection.
-- **40+ Ethical Hacking Modules** – Port scanning, SQLi, XSS, CMS detection, WordPress scanner, and more.
-- **Stresser (L4 & L7)** – UDP/TCP/ICMP floods and HTTP GET/POST/Slowloris (educational use only).
-- **Forensic Image Suite** – 10 modules including EXIF/GPS extraction, steganography check, ELA, OCR, and color palette analyzer.
-- **Password Security Suite** – Strength analyzer, secure generator, common password checker, hash generator, policy validator, and wordlist analyzer.
-- **Cyberpunk Neon UI** – Rich terminal interface with animations, panels, and colored output.
-- **Cross-Platform** – Works on Termux, Linux, Windows, macOS, and Kali Linux.
-- **No API Key Required** – OSINT and Forensic modules use free public resources.
+- **OSINT Suite** â€“ 10 modules covering username, phone, email, social media, IP, domain, GitHub, Gravatar, IP reputation, and website tech detection.
+- **40+ Ethical Hacking Modules** â€“ Port scanning, SQLi, XSS, CMS detection, WordPress scanner, and more.
+- **Stresser (L4 & L7)** â€“ UDP/TCP/ICMP floods and HTTP GET/POST/Slowloris (educational use only).
+- **Forensic Image Suite** â€“ 10 modules including EXIF/GPS extraction, steganography check, ELA, OCR, and color palette analyzer.
+- **Password Security Suite** â€“ Strength analyzer, secure generator, common password checker, hash generator, policy validator, and wordlist analyzer.
+- **Cyberpunk Neon UI** â€“ Rich terminal interface with animations, panels, and colored output.
+- **Cross-Platform** â€“ Works on Termux, Linux, Windows, macOS, and Kali Linux.
+- **No API Key Required** â€“ OSINT and Forensic modules use free public resources.
 
 
 ## Modules Overview
@@ -96,7 +96,7 @@ $ python3 hacksecure.py
 | 39 | Social Engineering Toolkit| Launch SE attacks (educational) |
 | 40 | Forensic Toolkit          | Digital forensics tools |
 
-### Stresser (6 Modules – L4 & L7)
+### Stresser (6 Modules â€“ L4 & L7)
 | # | Module | Description |
 |---|--------|-------------|
 | 01 | UDP Flood         | Send high volume UDP packets |
@@ -133,10 +133,10 @@ $ python3 hacksecure.py
 ## Instructions
 1. **Install** the tool using the commands above.
 2. **Run** `python3 hacksecure.py` after installation.
-3. **Select a menu** – choose from OSINT, Hacking, Stresser, Forensic Image, Password Security, About, Help, or Exit.
-4. **Choose a module** – enter the module number to launch.
-5. **Follow on-screen prompts** – provide required input (URL, IP, file path, etc.).
-6. **View results** – results are displayed in the terminal; some modules save output files (ELA image, palette image, etc.).
+3. **Select a menu** â€“ choose from OSINT, Hacking, Stresser, Forensic Image, Password Security, About, Help, or Exit.
+4. **Choose a module** â€“ enter the module number to launch.
+5. **Follow on-screen prompts** â€“ provide required input (URL, IP, file path, etc.).
+6. **View results** â€“ results are displayed in the terminal; some modules save output files (ELA image, palette image, etc.).
 
 ## Observation
 This tool is intended for **educational and ethical purposes only**. Unauthorized scanning, stress testing, or investigation of systems you do not own or have explicit written permission to test is **illegal**. The author assumes no responsibility for misuse or damage caused by this tool.
@@ -148,13 +148,13 @@ This tool is intended for **educational and ethical purposes only**. Unauthorize
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=googlechrome)](https://whomrx.pages.dev) <br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com) <br>
+[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666) <br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X) <br>
+[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666) <br>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X) <br>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com) <br>
 [![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
 
 **If you want to donate, click on the button**
